@@ -11,4 +11,7 @@ int main()
 
    std::cout << merge.addTwoNumbers(5, 4) << '\n';
    std::cout << "Number Of calculations: " << static_cast<int>(merge.getNumberOfCalculations()) << '\n';
+
+   std::cout << merge.multiplyTwoNumbers(5, 4) << '\n';
+   std::cout << "Number Of calculations: " << static_cast<int>(merge.getNumberOfCalculations()) << '\n';
 }
