@@ -1,0 +1,17 @@
+# Build output
+rebase
+*.o
+
+# Editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Vim
+*.swp
+*.swo
+
+# Misc
+compile_commands.json
